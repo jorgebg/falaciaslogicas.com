@@ -21,7 +21,7 @@ a{color:#59569D;}
 h1,h2,h3,h4,h5,h6{width:100%;text-align:center;margin:auto;font-family:Gabriela;}
 .page-header h1{margin-bottom:20px;}
 .tagline{font-size:24.5px;font-weight:normal;line-height:1;color:#999;}
-.home-content .bibliografia h2{font-size:17.5px;font-weight:bold;line-height:1;color:#999;}
+.home-content h2{font-size:17.5px;font-weight:bold;line-height:1;color:#999;margin:20px 0 10px 0;}
 .home-content .bibliografia ul li .titulo{color:#333;font-weight:bold;}
 .home-content .bibliografia ul li{margin-bottom:10px;}
 .home-example-wrapper{text-align:center;}
