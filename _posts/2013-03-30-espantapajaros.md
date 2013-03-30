@@ -7,9 +7,7 @@ example: ! '- Hay que invertir más dinero en salud y educación.
 
   - No entiendo como puedes odiar a nuestro país tanto como para que quieras
 
-  dejarlo indefenso reduciendo el gasto militar.
-
-'
+  dejarlo indefenso reduciendo el gasto militar.'
 slug: espantapajaros
 description: Se ha tergiversado el argumento para que sea más fácil de atacar.
 keywords: espantapájaros, falacias lógicas
