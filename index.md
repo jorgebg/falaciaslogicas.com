@@ -57,7 +57,7 @@ keywords: falacias lógicas, falacias, razonamientos falaces, razonamiento, argu
 
       <li> Si te sientes cómodo con <a href="http://github.com">Github</a>, puedes colaborar en el proyecto <a href="http://github.com/jorgebg/falaciaslogicas">falaciaslogicas.com</a> sugiriendo <a href="https://github.com/jorgebg/falaciaslogicas.com/issues">tareas</a> o editando directamente la lista de falacias lógicas en <a href="https://github.com/jorgebg/falaciaslogicas.com/gh-pages/_posts.yml">éste fichero</a>, haciendo click en <em>Edit</em>.</li>
 
-      <li> <div>¡Caza falacias lógicas en Twitter! </div>
+      <li> <div>¡Caza falacias lógicas en <a href="https://twitter.com/{{ site.author.twitter }}">Twitter</a>! </div>
       <a href="https://twitter.com/{{ site.author.twitter }}" class="twitter-follow-button" data-show-count="false" data-lang="es">@{{ site.author.twitter }}</a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
       </li>
