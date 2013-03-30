@@ -1,8 +1,8 @@
 ---
 layout: page
 home: true
-description: Aprende a evitar y reconocer las falacias lógicas
-keywords: falacias lógicas, falacias, razonamientos falaces, razonamiento, argumento, falaz, verdad a medias, razonamiento incorrecto, engaños, fraude, mentiras, falsa verdad, premisas, conclusión, causalidad, casual, casualidad, generalizar, política, propaganda, coincidental, coincidencia, errónea, aristóteles, On Sophistical Refutations, prejuicios
+description: Aprende a evitar y reconocer las falacias lógicas.
+keywords: falacias lógicas, falacias, razonamientos falaces, razonamiento, argumento, falaz, verdad a medias, razonamiento incorrecto, engaños, fraude, mentiras, falsa verdad, premisas, conclusión, causalidad, casual, casualidad, generalizar, política, propaganda, coincidental, coincidencia, errónea, aristóteles, On Sophistical Refutations, prejuicios, cazar, cazar falacias, cazar falacias lógicas, cazar engaños
 #title: Falacias Lógicas
 #tagline: Supporting tagline
 ---
@@ -48,6 +48,21 @@ keywords: falacias lógicas, falacias, razonamientos falaces, razonamiento, argu
 
   {% include posts_description %}
 
+  <h2>Colabora</h2>
+    <div>Ésta web es un <a href="http://github.com/jorgebg/falaciaslogicas">proyecto colaborativo</a> cuyo objetivo luchar contra el uso de las falacias lógicas. Es común escucharlas en política y medios de comunicación. Pasan desapercibidas para muchas personas que son engañadas diariamente una y otra vez, de tal forma que las falacias lógicas forman parte de su vida cotidiana.</div>
+
+    <div>Puedes ayudar a difundir éste mensaje de varias formas:</div>
+    <ul>
+      <li>Si tienes ideas, sugerencias o correcciones, escríbenos a <a href="mailto:aristoteles@falaciaslogicas.com">aristoteles@falaciaslogicas.com</a>.</li>
+
+      <li> Si te sientes cómodo con <a href="http://github.com">Github</a>, puedes colaborar en el proyecto <a href="http://github.com/jorgebg/falaciaslogicas">falaciaslogicas.com</a> sugiriendo <a href="https://github.com/jorgebg/falaciaslogicas.com/issues">tareas</a> o editando directamente la lista de falacias lógicas en <a href="https://github.com/jorgebg/falaciaslogicas.com/gh-pages/_posts.yml">éste fichero</a>, haciendo click en <em>Edit</em>.</li>
+
+      <li> <div>¡Caza falacias lógicas en Twitter! </div>
+      <a href="https://twitter.com/{{ site.author.twitter }}" class="twitter-follow-button" data-show-count="false" data-lang="es">@{{ site.author.twitter }}</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+      </li>
+    </ul>
+
   <div class="bibliografia">
     <h2>Bibliografía</h2>
     <ul class="unstyled">
@@ -62,7 +77,12 @@ keywords: falacias lógicas, falacias, razonamientos falaces, razonamiento, argu
         <a href="http://www.theskepticsguide.org/resources/logicalfallacies.aspx">The Skeptics' Guide to the Universe</a>.
         </small>
       </li>
-
+      <li>
+        <div class="titulo">Wikipedia, <em>Fallacy</em></div>
+        <small>
+        <a href="http://en.wikipedia.org/wiki/Fallacy">Fallacy - Wikipedia</a>.
+        </small>
+      </li>
     </ul>
   </div>
 </div>
