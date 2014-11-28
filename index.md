@@ -49,7 +49,7 @@ keywords: falacias lógicas, falacias, razonamientos falaces, razonamiento, argu
   {% include posts_description %}
 
   <h2>Colabora</h2>
-    <div>Ésta web es un <a href="http://github.com/jorgebg/falaciaslogicas">proyecto colaborativo</a> cuyo objetivo luchar contra el uso de las falacias lógicas. Es común escucharlas en política y medios de comunicación. Pasan desapercibidas para muchas personas que son engañadas diariamente una y otra vez, de tal forma que las falacias lógicas forman parte de su vida cotidiana.</div>
+    <div>Ésta web es un <a href="http://github.com/jorgebg/falaciaslogicas.com">proyecto colaborativo</a> cuyo objetivo luchar contra el uso de las falacias lógicas. Es común escucharlas en política y medios de comunicación. Pasan desapercibidas para muchas personas que son engañadas diariamente una y otra vez, de tal forma que las falacias lógicas forman parte de su vida cotidiana.</div>
 
     <div>Puedes ayudar a difundir éste mensaje de varias formas:</div>
     <ul>
