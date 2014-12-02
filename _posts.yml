@@ -144,7 +144,7 @@
 #  Jorge no miente cuando se pone serio. Ahora está hablando muy serio, por lo
 #  que está diciendo la verdad.
 
-- title: No sigue
+- title: No se sigue
 #  title: Peras con Manzanas
   latin: Non Sequitur
   tagline: Los argumentos dados son irrelevantes.
@@ -153,7 +153,7 @@
     La proposición carece de una relación lógica con el asunto tratado, o es irrelevante.
     Es una falacia lógica porque la conclusión no tiene conexión con el argumento.
   example: |
-    - Si usted no compra éste pienso, está descuidando a su perro.
+    - Si usted no compra este pienso, está descuidando a su perro.
   
 - title: Anfibología
   tagline: El argumento puede tener múltiples significados distintos.
