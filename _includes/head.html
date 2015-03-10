@@ -6,8 +6,8 @@
     <link rel="icon" type="image/png" href="/favicon.png">
 
     <title>{{site.title}}{% if page.title %} | {{ page.title }}{% endif %}</title>
-    <meta name="description" content="{{ page.description }}">
-    <meta name="keywords" content="{{ page.keywords }}, {{page.title}}, {{site.title}}">
+    <meta name="description" content="{{ page.description | escape }}">
+    <meta name="keywords" content="{% if page.keywords %}{{page.keywords}}{% else %}{{page.title|downcase}}, {{site.title|downcase}}{% endif %}">
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 

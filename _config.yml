@@ -21,3 +21,9 @@ defaults:
       type: "fallacies"
     values:
       layout: "fallacy"
+
+kramdown:
+  # Enable GitHub Flavored Markdown (fenced code blocks)
+  input: GFM
+  # Enable auto-generated ID's for headings
+  auto_ids: true
