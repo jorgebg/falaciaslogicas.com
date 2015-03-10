@@ -14,10 +14,10 @@ También puedes seguirnos en [Twitter](https://twitter.com/FalaciaLogica).
 ## <a name="bibliografia">Bibliografía</a>
 
 * **Aristóteles, _On Sophistical Refutations_**
-* Disponible en [formato electrónico](http://ebooks.adelaide.edu.au/a/aristotle/sophistical/) con [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/3.0/es/) gracias a la [Universidad de Adelaide](http://adelaide.edu.au).
+  * Disponible en [formato electrónico](http://ebooks.adelaide.edu.au/a/aristotle/sophistical/) con [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/3.0/es/) gracias a la [Universidad de Adelaide](http://adelaide.edu.au).
 
 * **The Skeptics' Guide to the Universe, _Top 20 Logical Fallacies_**
-* [The Skeptics' Guide to the Universe](http://www.theskepticsguide.org/resources/logical-fallacies)
+  * [The Skeptics' Guide to the Universe](http://www.theskepticsguide.org/resources/logical-fallacies)
 
 * **Wikipedia, _Fallacy_**
-* [Fallacy - Wikipedia](http://en.wikipedia.org/wiki/Fallacy)
+  * [Fallacy - Wikipedia](http://en.wikipedia.org/wiki/Fallacy)
