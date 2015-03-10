@@ -1,17 +1,23 @@
 <div class="container-narrow">
   <div class="content">
     <footer class="text-center">
+      {% unless page.home %}
       <small>
-        {% if page.home == false %}
-        <a href="/#quienes-somos">¿Quiénes somos?</a> •
-        <a href="/#contacto">Contacto</a> •
+        <a href="/#quienes-somos">¿Quiénes somos?</a> ·
+        <a href="/#contacto">Contacto</a> ·
         <a href="/#bibliografia">Bibliografía</a>
-        <br/>
-        {% endif %}
-        <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/es/"><img title="Licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual" src="/img/by-nc-sa.png"/></a>
-        &nbsp;
-        <a href="{{ site.author.url }}" target="_blank" title="{{ site.author.name }}">{{ site.author.name }}</a> y <a href="https://github.com/jorgebg/falaciaslogicas.com/graphs/contributors">otros colaboradores</a>.
       </small>
+      <br/>
+      {% endunless %}
+      <a href="https://github.com/jorgebg/falaciaslogicas.com"><i class="fa fa-github"></i></a>
+      &nbsp;
+      <a href="https://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter"></i></a>
+      &nbsp;
+      <a href="mailto:aristoteles@falaciaslogicas.com"><i class="fa fa-envelope"></i></a>
+      &nbsp;
+      <small><a href="{{ site.author.url }}" target="_blank" title="{{ site.author.name }}">{{ site.author.name }}</a> y <a href="https://github.com/jorgebg/falaciaslogicas.com/graphs/contributors">otros colaboradores</a>.</small>
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a>
+      &nbsp;
     </footer>
   </div>
 </div>

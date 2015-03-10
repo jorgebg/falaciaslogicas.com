@@ -35,40 +35,9 @@ keywords: falacias lógicas, falacias, razonamientos falaces, razonamiento, argu
 
   {% include fallacies.html %}
 
-  <h2><a name="quienes-somos">¿Quiénes somos?</a></h2>
-  <div>Ésta web es un <a href="http://github.com/jorgebg/falaciaslogicas.com">proyecto colaborativo</a> cuyo objetivo luchar contra el uso de las falacias lógicas. Es común escucharlas en política y medios de comunicación. Pasan desapercibidas para muchas personas que son engañadas diariamente una y otra vez, de tal forma que las falacias lógicas forman parte de su vida cotidiana.</div>
+  {% capture readme %}
+  {% include README.md %}
+  {% endcapture %}
+  {{ readme | markdownify }}
 
-  <h2><a name="contacto">Contacto</a></h2>
-
-    <p>Si tienes ideas, sugerencias o correcciones, escríbenos a <a href="mailto:aristoteles@falaciaslogicas.com">aristoteles@falaciaslogicas.com</a>.</p>
-
-    <p> Si te sientes cómodo con <a href="http://github.com">Github</a>, puedes colaborar en el proyecto <a href="http://github.com/jorgebg/falaciaslogicas.com">falaciaslogicas.com</a> sugiriendo <a href="https://github.com/jorgebg/falaciaslogicas.com/issues">tareas</a> o editando directamente la lista de falacias lógicas en <a href="https://github.com/jorgebg/falaciaslogicas.com/blob/gh-pages/_fallacies/">ésta carpeta</a>.</p>
-
-    <p>
-      <a href="https://twitter.com/{{ site.twitter }}" class="twitter-follow-button" data-show-count="false" data-lang="es">@{{ site.twitter }}</a>
-      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-    </p>
-
-  <div class="bibliografia">
-    <h2><a name="bibliografia">Bibliografía</a></h2>
-    <ul class="unstyled">
-      <li>
-        <div class="titulo">Aristóteles, <em>On Sophistical Refutations</em></div>
-        <small>Disponible en <a href="http://ebooks.adelaide.edu.au/a/aristotle/sophistical/">formato electrónico</a> con <a  href="http://creativecommons.org/licenses/by-nc-sa/3.0/es/">Licencia Creative Commons</a> gracias a la <a href="http://adelaide.edu.au">Universidad de Adelaide</a>.
-        </small>
-      </li>
-      <li>
-        <div class="titulo">The Skeptics' Guide to the Universe, <em>Top 20 Logical Fallacies</em></div>
-        <small>
-          <a href="http://www.theskepticsguide.org/resources/logicalfallacies.aspx">The Skeptics' Guide to the Universe</a>.
-        </small>
-      </li>
-      <li>
-        <div class="titulo">Wikipedia, <em>Fallacy</em></div>
-        <small>
-          <a href="http://en.wikipedia.org/wiki/Fallacy">Fallacy - Wikipedia</a>.
-        </small>
-      </li>
-    </ul>
-  </div>
 </div>

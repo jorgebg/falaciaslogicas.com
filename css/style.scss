@@ -2,10 +2,9 @@
 ---
 @charset "utf-8";
 
-
 /* Variables */
 $example-color: #59565D;
-
+$default-color: #59569D;
 
 /* Mixins */
 // Border Radius
@@ -17,7 +16,7 @@ $example-color: #59565D;
 
 /* All */
 a {
-  color: #59569D;
+  color: $default-color;
 }
 
 
@@ -160,15 +159,9 @@ h1, h2, h3, h4, h5, h6 {
     color: #999;
     margin: 20px 0 10px 0;
   }
-  .bibliografia {
-    ul li .titulo {
-      color: #333;
-      font-weight: bold;
-    }
-
-    ul li {
-      margin-bottom: 10px;
-    }
+  ul
+  {
+    list-style-type: none;
   }
 }
 
@@ -215,7 +208,8 @@ h1, h2, h3, h4, h5, h6 {
   font-family: Gabriela;
 }
 
-footer {
+footer a {
+  color: darken($default-color, 25%);
   margin-bottom: 5px;
 }
 
@@ -242,7 +236,7 @@ footer {
   }
 
   a.btn-large dd {
-    color: #59569D;
+    color: $default-color;
   }
 }
 
