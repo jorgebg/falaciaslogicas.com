@@ -1,0 +1,17 @@
+<header class="navbar">
+  <div class="navbar-inner{% if page.home %} home{% endif %}">
+    <div class="container-narrow">
+      <a href="{{ site.url }}" class="brand">
+        {% if page.home %}
+        <h1>
+          <img src="/img/logo/falacias-logicas-big.png"/>
+          <span>{{ site.title }}</span>
+        </h1>
+        {% else %}
+        <img src="/img/logo/falacias-logicas.png"/>
+        <span>{{ site.title }}</span>
+        {% endif %}
+      </a>
+    </div>
+  </div>
+</header>

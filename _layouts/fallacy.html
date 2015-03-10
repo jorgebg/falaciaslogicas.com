@@ -1,0 +1,51 @@
+---
+layout: default
+---
+<div class="page-header">
+  <h1>
+    {{ page.title }}
+  </h1>
+  <div class="tagline"> {{ page.tagline }} </div>
+</div>
+
+<div class="row-fluid post-full">
+  <div class="span12">
+    <div class="lead content">
+      {{ content }}
+    </div>
+    <div class="ejemplo">
+      <h2><small>Ejemplo</small></h2>
+      <blockquote>
+        {% for line in page.example%}
+        - {{line}}
+        {% endfor %}
+      </blockquote>
+    </div>
+
+    <hr/>
+
+    <div class="pagination">
+      <ul>
+        {% for fallacy in site.fallacies %}
+          {% if fallacy.url == page.url %}
+            {% assign i = forloop.index0 | minus:1 %}
+            {% if i >= 0 %}
+              {% assign previous = site.fallacies[i] %}
+              <li class="prev"><a href="{{ previous.url }}" title="{{ previous.title }}">&larr; {{ previous.title }}</a></li>
+            {% endif %}
+            {% assign i = forloop.index0 | plus:1 %}
+            {% if i < forloop.length %}
+              {% assign next = site.fallacies[i] %}
+              <li class="next"><a href="{{ next.url }}" title="{{ next.title }}">{{ next.title }} &rarr;</a></li>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+    <hr>
+  </div>
+</div>
+
+
+<h2><small>Otras falacias</small></h2>
+{% include fallacies.html %}
