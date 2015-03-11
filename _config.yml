@@ -27,3 +27,5 @@ kramdown:
   input: GFM
   # Enable auto-generated ID's for headings
   auto_ids: true
+  
+exclude: ['vendor/bundle']
