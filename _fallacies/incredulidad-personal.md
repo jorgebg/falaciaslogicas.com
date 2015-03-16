@@ -1,6 +1,8 @@
 ---
 title: Incredulidad Personal
 description: No se ha podido entender el argumento, por lo que es falso.
+keywords:
+  - Falacia Divina
 example:
   - No puedo imaginar cómo un pez evolucionó hasta convertirse en el ser humano. Es imposible.
 ---

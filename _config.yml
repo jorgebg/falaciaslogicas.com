@@ -29,3 +29,6 @@ kramdown:
   auto_ids: true
 
 exclude: [ vendor ]
+
+gems:
+  - jekyll-redirect-from

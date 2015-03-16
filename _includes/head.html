@@ -7,7 +7,7 @@
 
     <title>{{site.title}}{% if page.title %} | {{ page.title }}{% endif %}</title>
     <meta name="description" content="{{ page.description | escape }}">
-    <meta name="keywords" content="{% if page.keywords %}{{page.keywords}}{% else %}{{page.title|downcase}}, {{site.title|downcase}}{% endif %}">
+    <meta name="keywords" content="{% if page.keywords %}{{page.keywords | join:', '}}{% endif %}{{page.title|downcase}}, {{site.title|downcase}}, argumentum">
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 
