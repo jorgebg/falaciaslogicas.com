@@ -1,5 +1,5 @@
 ---
-latin: Ad hominem
+keywords: Ad hominem
 title: Contra el hombre
 description: Se ataca a la persona en lugar de al argumento.
 example:

@@ -1,5 +1,5 @@
 ---
-latin: Ad consequentiam
+keywords: Ad consequentiam
 title: Por las consecuencias
 description: El argumento es falso ya que sus consecuencias son indeseables.
 example:

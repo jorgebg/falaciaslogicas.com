@@ -1,7 +1,7 @@
 ---
-latin: Post hoc, ergo propter hoc
 title: Causa Falsa
 description: Se ha confundido correlación con causalidad.
+keywords: Post hoc, ergo propter hoc
 example:
   - Me tomé el refresco y me empezó a doler la cabeza. El refresco provoca dolor de cabeza.
 ---

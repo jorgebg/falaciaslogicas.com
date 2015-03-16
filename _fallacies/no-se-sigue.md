@@ -1,6 +1,6 @@
 ---
 title: No se sigue
-latin: Non Sequitur
+keywords: Non Sequitur
 description: Los argumentos dados son irrelevantes.
 example:
   - Si usted no compra este pienso, está descuidando a su perro.

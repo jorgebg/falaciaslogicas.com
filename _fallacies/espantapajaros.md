@@ -1,6 +1,6 @@
 ---
 title: Espantapájaros
-latin: Argumentum ad lógicam
+keywords: Argumentum ad lógicam
 description: Se ha tergiversado el argumento para que sea más fácil de atacar.
 example:
   - Hay que invertir más dinero en salud y educación.

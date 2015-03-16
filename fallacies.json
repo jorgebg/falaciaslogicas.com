@@ -6,7 +6,7 @@ layout: null
   {
     "title"    : {{ fallacy.title | jsonify }},
     "url"     : {{ fallacy.url | prepend:site.url | jsonify }},
-    "latin"     : {{ fallacy.latin | jsonify }},
+    "keywords"     : {{ fallacy.keywords | jsonify }},
     "description"  : {{ fallacy.description | jsonify }}
     } {% if forloop.last %}{% else %},{% endif %}
     {% endfor %}

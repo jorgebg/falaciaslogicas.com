@@ -1,5 +1,5 @@
 ---
-latin: Paradoja sorites
+keywords: Paradoja sorites
 title: Continuo
 description: No se pueden distinguir casos extremos cuando hay casos intermedios de clasificación ambigua.
 example:

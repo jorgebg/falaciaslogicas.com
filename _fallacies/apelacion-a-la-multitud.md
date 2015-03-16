@@ -1,6 +1,6 @@
 ---
 title: Apelación a la Multitud
-latin: Argumentum ad populum
+keywords: Argumentum ad populum
 example:
   - El fútbol gusta a millones de personas a lo largo de todo el planeta. El fútbol es el mejor deporte, tanta gente no puede estar equivocada.
 description: El argumento se da por cierto porque "todo el mundo lo hace".

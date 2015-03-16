@@ -1,5 +1,5 @@
 ---
-latin: Ad verecundiam
+keywords: Ad verecundiam
 title: Apelación a la Autoridad
 description: El argumento se da por cierto ya que es defendido por una autoridad.
 example:

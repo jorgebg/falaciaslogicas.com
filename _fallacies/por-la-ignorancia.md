@@ -1,5 +1,5 @@
 ---
-latin: Ad ignorantiam
+keywords: Ad ignorantiam
 title: Por la ignorancia
 description: Se da el argumento por cierto debido a que no se puede demostrar que sea falso.
 example:
