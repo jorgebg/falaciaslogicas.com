@@ -1,6 +1,5 @@
 ---
 title: Anfibología
-tagline: El argumento puede tener múltiples significados distintos.
 description: El argumento puede tener múltiples significados distintos.
 example:
   - Jorge fue a ver al presidente en su coche.

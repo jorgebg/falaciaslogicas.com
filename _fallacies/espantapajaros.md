@@ -1,7 +1,6 @@
 ---
 title: Espantapájaros
 latin: Argumentum ad lógicam
-tagline: Se ha tergiversado el argumento para que sea más fácil de atacar.
 description: Se ha tergiversado el argumento para que sea más fácil de atacar.
 example:
   - Hay que invertir más dinero en salud y educación.

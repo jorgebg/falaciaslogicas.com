@@ -1,7 +1,6 @@
 ---
 latin: Paradoja sorites
 title: Continuo
-tagline: No se pueden distinguir casos extremos cuando hay casos intermedios de clasificación ambigua.
 description: No se pueden distinguir casos extremos cuando hay casos intermedios de clasificación ambigua.
 example:
   - Hay una línea borrosa entre embrión y feto, son lo mismo.

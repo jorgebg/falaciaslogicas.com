@@ -1,7 +1,6 @@
 ---
 title: Tautología
 latin: Petitio Principii
-tagline: La veracidad del argumento ya se incluye entre sus premisas.
 description: La veracidad del argumento ya se incluye entre sus premisas.
 example:
   - ¿Has terminado ya de contarnos mentiras?

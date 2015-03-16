@@ -1,6 +1,5 @@
 ---
 title: Inconsistencia
-tagline: Los argumentos no podrían ser ciertos todos a la vez.
 description: Los argumentos no podrían ser ciertos todos a la vez.
 example:
   - Toda la Biblia es verdad y **la ciencia es una gran mentira** alimentada por Satanás. De hecho, **los científicos** creaccionistas han demostrado que el diluvio de Noé ocurrió.

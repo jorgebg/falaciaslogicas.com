@@ -1,7 +1,6 @@
 ---
 title: No se sigue
 latin: Non Sequitur
-tagline: Los argumentos dados son irrelevantes.
 description: Los argumentos dados son irrelevantes.
 example:
   - Si usted no compra este pienso, está descuidando a su perro.

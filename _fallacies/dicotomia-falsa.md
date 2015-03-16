@@ -1,6 +1,5 @@
 ---
 title: Dicotomía Falsa
-tagline: De todas las opciones posibles, se han tenido cuenta sólo dos.
 description: De todas las opciones posibles, se han tenido cuenta sólo dos.
 example:
   - Éste año tenemos que recortar en educación.

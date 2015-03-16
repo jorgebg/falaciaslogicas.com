@@ -1,7 +1,6 @@
 ---
 latin: Ad consequentiam
 title: Por las consecuencias
-tagline: El argumento es falso ya que sus consecuencias son indeseables.
 description: El argumento es falso ya que sus consecuencias son indeseables.
 example:
   - En el partido del gobierno no hay corrupción, ya que si la hubiese no habría ganado las elecciones.

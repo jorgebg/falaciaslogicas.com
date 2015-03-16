@@ -1,7 +1,6 @@
 ---
 latin: Ad verecundiam
 title: Apelación a la Autoridad
-tagline: El argumento se da por cierto ya que es defendido por una autoridad.
 description: El argumento se da por cierto ya que es defendido por una autoridad.
 example:
   - Conozco a un científico que cree en Dios. Por tanto, Dios existe.

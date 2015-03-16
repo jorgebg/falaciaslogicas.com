@@ -1,6 +1,5 @@
 ---
 title: Incredulidad Personal
-tagline: No se ha podido entender el argumento, por lo que es falso.
 description: No se ha podido entender el argumento, por lo que es falso.
 example:
   - No puedo imaginar cómo un pez evolucionó hasta convertirse en el ser humano. Es imposible.

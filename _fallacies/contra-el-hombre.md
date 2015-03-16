@@ -1,7 +1,6 @@
 ---
 latin: Ad hominem
 title: Contra el hombre
-tagline: Se ataca a la persona en lugar de al argumento.
 description: Se ataca a la persona en lugar de al argumento.
 example:
   - El Estado debe repartir el dinero, haciéndolo llegar a quien más lo necesita.

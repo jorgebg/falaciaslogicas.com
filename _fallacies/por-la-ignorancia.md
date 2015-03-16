@@ -1,7 +1,6 @@
 ---
 latin: Ad ignorantiam
 title: Por la ignorancia
-tagline: Se da el argumento por cierto debido a que no se puede demostrar que sea falso.
 description: Se da el argumento por cierto debido a que no se puede demostrar que sea falso.
 example:
   - Nadie ha demostrado la existencia de Dios. Por tanto, Dios no existe.
