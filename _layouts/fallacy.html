@@ -22,9 +22,19 @@ layout: default
       </blockquote>
     </div>
 
+    <br/>
+
+    <div class="keywords">
+      <p>También conocida como
+        {% for keyword in page.keywords %}
+        {% if forloop.last %} o {% endif %}<em>«{{ keyword }}»</em>{% if forloop.last %}.{% elsif forloop.rindex > 2 %}, {% endif %}
+        {% endfor %}
+      </p>
+    </div>
+
     <hr/>
 
-    <div class="pagination">
+    <div class="pagination text-center">
       <ul>
         {% for fallacy in site.fallacies %}
           {% if fallacy.url == page.url %}

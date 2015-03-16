@@ -8,6 +8,6 @@ layout: null
     "url"     : {{ fallacy.url | prepend:site.url | jsonify }},
     "keywords"     : {{ fallacy.keywords | jsonify }},
     "description"  : {{ fallacy.description | jsonify }}
-    } {% if forloop.last %}{% else %},{% endif %}
-    {% endfor %}
-  ]
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

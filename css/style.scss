@@ -5,6 +5,7 @@
 /* Variables */
 $example-color: #59565D;
 $default-color: #59569D;
+$muted-color: #79769D;
 
 /* Mixins */
 // Border Radius
@@ -205,6 +206,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .example {
   color: $example-color;
+  font-family: Gabriela;
+}
+
+.keywords {
+  color: $muted-color;
   font-family: Gabriela;
 }
 
