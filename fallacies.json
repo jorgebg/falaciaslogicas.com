@@ -1,0 +1,13 @@
+---
+layout: null
+---
+[
+  {% for fallacy in site.fallacies %}
+  {
+    "title"    : {{ fallacy.title | jsonify }},
+    "url"     : {{ fallacy.url | prepend:site.url | jsonify }},
+    "latin"     : {{ fallacy.latin | jsonify }},
+    "description"  : {{ fallacy.description | jsonify }}
+    } {% if forloop.last %}{% else %},{% endif %}
+    {% endfor %}
+  ]
