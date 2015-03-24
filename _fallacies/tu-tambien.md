@@ -8,4 +8,5 @@ example:
 redirect_from:
   - /tuquoque/
 ---
-http://en.wikipedia.org/wiki/Tu_quoque
+Esta falacia intenta desacreditar la opinion del contrario refiriendose a la
+forma de comportarse.  
