@@ -1,6 +1,6 @@
 ---
 title: Falsa Dicotomía
-description: De todas las opciones posibles, se han tenido cuenta sólo dos.
+description: De todas las opciones posibles, se han tenido en cuenta sólo dos.
 keywords:
   - Dilema Falsificado
   - Falacia del tercero excluido
