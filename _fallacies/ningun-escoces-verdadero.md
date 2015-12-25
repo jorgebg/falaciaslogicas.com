@@ -2,7 +2,8 @@
 title: Ningún Escocés Verdadero
 description: Se redibuja una definición para esquivar un contraejemplo, o se lo extrae del conjunto definido.
 keywords:
-  - Ningún escocés verdadero
+  - No true Scotsman
+  - Auténtico escocés
 example:
   - Todos los musulmanes apoyan al terrorismo.
   - Mi amigo Mohamed es musulmán y está totalmente en contra de los terroristas.
