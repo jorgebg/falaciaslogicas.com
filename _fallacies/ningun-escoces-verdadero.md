@@ -4,6 +4,7 @@ description: Se redibuja una definición para esquivar un contraejemplo, o se lo
 keywords:
   - No true Scotsman
   - Auténtico escocés
+  - Falso escocés
 example:
   - Todos los musulmanes apoyan al terrorismo.
   - Mi amigo Mohamed es musulmán y está totalmente en contra de los terroristas.
