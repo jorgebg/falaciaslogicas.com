@@ -21,3 +21,19 @@ También puedes seguirnos en [Twitter](https://twitter.com/FalaciaLogica).
 
 * **Wikipedia, _Fallacy_**
   * [Fallacy - Wikipedia](http://en.wikipedia.org/wiki/Fallacy)
+
+
+## <a name="API">API</a>
+Puedes obtener la lista de falacias lógicas en formato `JSON` en la dirección [falaciaslogicas.com/index.json](http://falaciaslogicas.com/index.json). Es una lista de objetos que siguen la siguiente estructura:
+
+```json
+  {
+    "title"    : "Contra el hombre",
+    "url"     : "http://falaciaslogicas.com/contra-el-hombre/",
+    "keywords"     : ["Ad hominem"],
+    "description"  : "Se ataca a la persona en lugar de al argumento."
+  },
+```
+
+La codificación es UTF-8.
+
