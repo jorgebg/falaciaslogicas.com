@@ -30,5 +30,5 @@ kramdown:
 
 exclude: [ vendor, media ]
 
-gems:
+plugins:
   - jekyll-redirect-from
